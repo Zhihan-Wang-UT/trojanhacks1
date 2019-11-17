@@ -1,2 +1,2 @@
-# trojanhacks1
-trojan football
+# phaser_tutorial
+npm install -g http-server
